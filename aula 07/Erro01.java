@@ -13,3 +13,8 @@ class Erro01 {
 		System.out.println("Hello World");
 	}
 }
+
+/* Classe e nome do arquivo deve ser igual*/
+
+
+
